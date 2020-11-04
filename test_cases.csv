@@ -1,0 +1,9 @@
+S.n,Input String,Output,Description 
+1,abcdedcba',d,normal string
+2,abcdefghijklmnopqrstuvwxyzabcd',a,long string
+3,abcddab',d,string with adjacent duplicates
+4,this is a test',i,string with spaces
+5,abc def ghi',there are no recurring characters,sting with space and no reccuring values
+6,abc121a',1,string with numeric values
+7,abc#123#',#,string with special characters
+8, ' ',there are no recurring characters,empty string
