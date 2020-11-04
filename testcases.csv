@@ -1,8 +1,0 @@
-S.n,Input String,Output
-1,abcdedcba,d
-2,abcdefghijklmnopqrstuvwxyzabcd,a
-3,abcddab,d
-4,this is a test,i
-5,abc def ghi,there are no recurring characters
-6,abc121a,1
-7,abc#123#,#
